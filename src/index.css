@@ -29,6 +29,12 @@
       "sans serif";
   }
 
+  .backgroun-image {
+    background-image: url("./images/bg-desktop-light.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
   .scrollbar {
     scrollbar-width: thin;
   }
